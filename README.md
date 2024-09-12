@@ -89,3 +89,43 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+--------------------------------------------------------------------------------------------------------
+
+# Respostas
+
+## 1 
+![image](https://github.com/user-attachments/assets/ecb1b35c-2580-4443-a83e-a7e5c3a92be6)
+
+## 2
+![image](https://github.com/user-attachments/assets/1e672e83-6ab4-40c4-9c58-a2d705db3fcd)
+
+## 3
+![image](https://github.com/user-attachments/assets/7ad2ae45-18ee-4060-91c8-bb15cf9e3460)
+
+## 4
+![image](https://github.com/user-attachments/assets/3f45a028-1e13-4ac7-a2a0-0a2d1cdc618e)
+
+## 5
+![image](https://github.com/user-attachments/assets/4ab8593b-dae1-4473-8004-db822e0f4520)
+
+## 6
+![image](https://github.com/user-attachments/assets/f3b91d88-5c68-4954-8c77-fbfa8c465692)
+
+## 7
+![image](https://github.com/user-attachments/assets/67667cc4-f5f1-40bc-ae13-9c7b352a0859)
+
+## 8 
+![image](https://github.com/user-attachments/assets/eccb6989-d4f7-4486-a5e6-1cc762a949de)
+
+## 9
+![image](https://github.com/user-attachments/assets/99cbbeaf-7f1f-401a-b493-e8f2a14b0432)
+
+## 10
+![image](https://github.com/user-attachments/assets/93ded4ab-408d-4e05-8681-82fdd866608e)
+
+## 11
+![image](https://github.com/user-attachments/assets/ff1498eb-f64b-43de-84c7-6481f6123032)
+
+## 12
+![image](https://github.com/user-attachments/assets/717aaad9-208e-419d-9dda-6d4ce6a7aacb)
